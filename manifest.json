@@ -1,0 +1,19 @@
+{
+  "name": "Nhari Wedding Planning App",
+  "short_name": "NHARI",
+  "theme_color": "#984AB4",
+  "description": "Marhbé bik fi Nhari",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    
+    {
+      "src": "/new_black_white",
+      "sizes": "2048x2048",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
